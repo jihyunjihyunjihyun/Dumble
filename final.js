@@ -1484,7 +1484,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		URL을 새 브라우저 창에서 로드합니다.
 		*/
-		window.open('https://home.konkuk.ac.kr/~jihyun8/덤블백과.html');
+		window.open('https://jihyunjihyunjihyun.github.io/Dumble/');
 		});
 		var _this = this;
 		_this.addEventListener("tick", updating);
