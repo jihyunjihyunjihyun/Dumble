@@ -1484,7 +1484,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		URL을 새 브라우저 창에서 로드합니다.
 		*/
-		window.open('https://jihyunjihyunjihyun.github.io/Dumble/');
+		window.open('https://jihyunjihyunjihyun.github.io/Dumble_Weki/');
 		});
 		var _this = this;
 		_this.addEventListener("tick", updating);
